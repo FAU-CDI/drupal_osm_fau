@@ -1,0 +1,8 @@
+name: OpenStreetMap FAU Server
+description: Adds an option to use the FAU OpenStreetMap Server.
+package: Geofield
+dependencies:
+  - drupal:geofield_map
+
+type: module
+core_version_requirement: ^8.8 || ^9 || ^10
